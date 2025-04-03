@@ -10,7 +10,7 @@
             <p>
                 From the simplest webpage to complex Enterprise scale web applications Javascript is an essential skill
                 for any
-                developer or designer. This course takes an in-depth look, from first principals in how to effectively
+                developer and/or designer. This course takes an in-depth look, from first principals in how to effectively
                 program
                 javascript through to best practices for large scale reusable code libraries.
             </p>
